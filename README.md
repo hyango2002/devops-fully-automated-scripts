@@ -7,5 +7,5 @@ Install Nginx:
 
 Install Git:
   
-   sudo yum install git -y
+    sudo yum install git -y
 
